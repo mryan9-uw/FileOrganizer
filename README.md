@@ -1,0 +1,1 @@
+FileOragnizer is a Java application for outdoor businesses. The program allows for efficent organization with different uses based on outdoor and indoor image files as well as receipts. Reference materials and more can be accessed with the user interface that works on Windows, Mac and Linux.
